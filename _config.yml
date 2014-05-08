@@ -1,0 +1,5 @@
+name: Leegtang's Blog
+encoding: utf-8
+markdown: redcarpet
+pygments: true
+paginate: 5  
