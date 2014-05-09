@@ -7,5 +7,4 @@ categories: Technology
 # 我的音乐 #
 
 
-
-<script type="text/javascript" src="http://www.xiami.com/widget/player-multi?uid=0&sid=1771950516,41301,&width=235&height=346&mainColor=FF8719&backColor=494949&mode=js"></script>
+<embed src="http://www.xiami.com/widget/5566113_5566113_235_346_FF8719_494949_1/shufflePlayer.swf" type="application/x-shockwave-flash" width="235" height="346" wmode="opaque"></embed>
